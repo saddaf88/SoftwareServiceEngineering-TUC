@@ -1,0 +1,12 @@
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\obj\Debug\netstandard2.0\TDDCalculatorTest.csprojAssemblyReference.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\obj\Debug\netstandard2.0\TDDCalculatorTest.AssemblyInfoInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\obj\Debug\netstandard2.0\TDDCalculatorTest.AssemblyInfo.cs
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\obj\Debug\netstandard2.0\TDDCalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\bin\Debug\netstandard2.0\TDDCalculatorTest.deps.json
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\bin\Debug\netstandard2.0\TDDCalculatorTest.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\bin\Debug\netstandard2.0\TDDCalculatorTest.pdb
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\bin\Debug\netstandard2.0\TDDCalculator.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\bin\Debug\netstandard2.0\TDDCalculator.pdb
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\obj\Debug\netstandard2.0\TDDCalculatorTest.csproj.CopyComplete
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\obj\Debug\netstandard2.0\TDDCalculatorTest.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculatorTest\obj\Debug\netstandard2.0\TDDCalculatorTest.pdb

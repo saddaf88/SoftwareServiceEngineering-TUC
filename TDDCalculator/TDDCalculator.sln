@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCalculator", "TDDCalculator\TDDCalculator.csproj", "{24D7B1C0-652E-4518-BC93-60F1BA59B5B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDCal", "TDDCal\TDDCal.csproj", "{092219D3-B07E-43B1-9CB5-8E017F19E92C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D7B1C0-652E-4518-BC93-60F1BA59B5B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D7B1C0-652E-4518-BC93-60F1BA59B5B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D7B1C0-652E-4518-BC93-60F1BA59B5B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D7B1C0-652E-4518-BC93-60F1BA59B5B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{092219D3-B07E-43B1-9CB5-8E017F19E92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092219D3-B07E-43B1-9CB5-8E017F19E92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092219D3-B07E-43B1-9CB5-8E017F19E92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092219D3-B07E-43B1-9CB5-8E017F19E92C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81E3FA9C-F95C-42A2-9528-154D11A8835F}
+	EndGlobalSection
+EndGlobal
