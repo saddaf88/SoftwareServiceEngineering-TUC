@@ -1,0 +1,9 @@
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\bin\Debug\netstandard2.0\TDDHashValue.deps.json
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\bin\Debug\netstandard2.0\TDDHashValue.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\bin\Debug\netstandard2.0\TDDHashValue.pdb
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\obj\Debug\netstandard2.0\TDDHashValue.csprojAssemblyReference.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\obj\Debug\netstandard2.0\TDDHashValue.AssemblyInfoInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\obj\Debug\netstandard2.0\TDDHashValue.AssemblyInfo.cs
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\obj\Debug\netstandard2.0\TDDHashValue.csproj.CoreCompileInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\obj\Debug\netstandard2.0\TDDHashValue.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDHashValue\TDDHashValue\obj\Debug\netstandard2.0\TDDHashValue.pdb
