@@ -7,3 +7,12 @@ C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculator\ob
 C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.csproj.CoreCompileInputs.cache
 C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.dll
 C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Mine\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.pdb
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\bin\Debug\netstandard2.0\TDDCalculator.deps.json
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\bin\Debug\netstandard2.0\TDDCalculator.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\bin\Debug\netstandard2.0\TDDCalculator.pdb
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.csprojAssemblyReference.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.AssemblyInfoInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.AssemblyInfo.cs
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\TDDCalculator\TDDCalculator\obj\Debug\netstandard2.0\TDDCalculator.pdb

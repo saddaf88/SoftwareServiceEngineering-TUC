@@ -1,18 +1,10 @@
-using System;
+﻿using TDDCalculator;
 using Xunit;
-using TDDCalculator;
-
 
 namespace TDDCal
 {
-    public class UnitTest1
+    public class CalculatorTest
     {
-        [Fact]
-        public void Test1()
-        {
-
-        }
-
         [Fact]
         public void MultiplyTest()
         {
