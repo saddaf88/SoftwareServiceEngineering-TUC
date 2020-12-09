@@ -1,0 +1,13 @@
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.exe
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.deps.json
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.runtimeconfig.json
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.runtimeconfig.dev.json
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\bin\Debug\netcoreapp3.1\ProxyPattern.pdb
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.csprojAssemblyReference.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.AssemblyInfo.cs
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.dll
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.pdb
+C:\Users\Saddaf Afrin\Desktop\SSE\TUC WS2021\Github\ProxyPattern\ProxyPattern\obj\Debug\netcoreapp3.1\ProxyPattern.genruntimeconfig.cache
